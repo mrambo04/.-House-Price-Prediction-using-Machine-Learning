@@ -4,7 +4,7 @@
 This project builds a predictive model that estimates house prices based on key features such as location, square footage, number of rooms, and other property attributes. The goal is to help buyers and real estate companies make informed decisions through data-driven insights.
  
 ---
- 
+  
 ## 🎯 Objective
 To develop a machine learning model capable of accurately predicting house prices and analyzing the impact of different features on the final price.
 
